@@ -1,0 +1,4 @@
+Creación del repositorio del proyecto (Opcional)
+Importación inicial del código del proyecto (Opcional)
+Crear una copia de trabajo del repositorio Modificar la copia de trabajo
+Envío de cambios al repositorio
